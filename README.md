@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/Lucasrosa12/Portifolio-Luc
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [Linkedin](https://www.linkedin.com/in/lucas-rosa-a559a7186/)
-<img src="https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg" alt="eu" />
+
+![Image] <img src="https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg" alt="eu" />
 
 ### Markdown
 
@@ -14,7 +15,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-[Linkedin](https://www.linkedin.com/in/lucas-rosa-a559a7186/)
 
 ![Foto de perfil](https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg)
 ## Header 2
