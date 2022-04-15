@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Linkedin](https://www.linkedin.com/in/lucas-rosa-a559a7186/)
 
-![Image] <img url="https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg" alt="eu" />
+![Image] <img src="https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg" alt="eu" />
 
 ### Markdown
 
