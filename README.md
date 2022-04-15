@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Image] <img src="C:\Users\Lucas\Desktop\imagens\eu.jpg" alt="eu"  />
 
 
-![shopping](C:\Users\Lucas\Desktop\shopping.png)
+<img loading="lazy" width="64" height="64" src="http://localhost/site1/wp-content/uploads/2022/04/eu.jpg" class="custom-logo" alt="Lucas Rosa">
 
 # funcionou!
 
