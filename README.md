@@ -10,6 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image] <img src="C:\Users\Lucas\Desktop\imagens\eu.jpg" alt="eu"  />
 
+
+![shopping](C:\Users\Lucas\Desktop\shopping.png)
+
 # funcionou!
 
 ### Markdown
