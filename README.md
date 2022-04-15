@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/Lucasrosa12/Portifolio-Luc
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [Linkedin](https://www.linkedin.com/in/lucas-rosa-a559a7186/)
+<img src="C:\Users\Lucas\Desktop\imagens\eu.jpg" alt="eu" style="zoom:25%;" />
 
 ### Markdown
 
