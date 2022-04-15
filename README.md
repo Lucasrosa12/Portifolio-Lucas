@@ -12,7 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 [https://www.linkedin.com/in/lucas-rosa-a559a7186/]
-[https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg]
+
+![https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg](src)
 ## Header 2
 ### Header 3
 
