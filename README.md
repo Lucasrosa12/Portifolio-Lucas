@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image] <img src="https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg" alt="eu" />
 
-![Image] <img src="C:\Users\Lucas\Desktop\imagens\eu.jpg" alt="eu"  />
+# Yes!
 
 
 <img loading="lazy" width="64" height="64" src="https://github.com/Lucasrosa12/Portifolio-Lucas/blob/main/imagens/eu.jpg" class="custom-logo" alt="Lucas Rosa">
